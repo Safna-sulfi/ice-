@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://safna-sulfi.github.io/ice-/sitemap.xml
